@@ -1,0 +1,3 @@
+# Allow build scripts to run
+public-hoist-pattern[]=*tailwind*
+public-hoist-pattern[]=*esbuild*
